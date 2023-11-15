@@ -1,4 +1,3 @@
-# proyectolanding2
 # replicaproyecto2
 
 Replica de Landing Page
