@@ -1,0 +1,19 @@
+*{
+    font-family: 'open sans', serif;
+}
+
+body {
+    background-color: #f7fafd;
+    flex-direction: column;
+}
+
+header {
+    background-color:  #f7fafd ;
+    z-index: 1000;
+}
+
+nav {
+    font-weight: bold;
+    color: rgb(59, 59, 59);
+    z-index: 100;
+}
